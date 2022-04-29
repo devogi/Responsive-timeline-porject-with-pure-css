@@ -121,7 +121,7 @@ function App() {
                 height="20px"
                 viewBox="0 0 21 20"
                 enable-background="new 0 0 21 20"
-                xmlSpace="preserve"
+                xml:space="preserve"
               >
                 <path
                   fill="#FFFFFF"
